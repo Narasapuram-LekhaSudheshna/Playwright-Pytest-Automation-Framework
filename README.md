@@ -132,6 +132,4 @@ This project was developed as part of my QA Automation learning journey using Pl
 Lekha Sudheshna N
 
 QA Engineer | Python Automation | Playwright | Pytest
-Lekha Sudheshna N
 
-QA Engineer | Python Automation | Playwright | Pytest
